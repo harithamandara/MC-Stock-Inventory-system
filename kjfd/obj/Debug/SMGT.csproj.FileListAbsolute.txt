@@ -1,0 +1,15 @@
+C:\C programing\kjfd\kjfd\bin\Debug\kjfd.exe
+C:\C programing\kjfd\kjfd\bin\Debug\Bunifu_UI_v1.4.dll
+C:\C programing\kjfd\kjfd\bin\Debug\kjfd.exe.config
+C:\C programing\kjfd\kjfd\obj\Debug\SMGT.csproj.AssemblyReference.cache
+C:\C programing\kjfd\kjfd\obj\Debug\SMGT.csproj.SuggestedBindingRedirects.cache
+C:\C programing\kjfd\kjfd\obj\Debug\kjfd.Login.resources
+C:\C programing\kjfd\kjfd\obj\Debug\kjfd.Properties.Resources.resources
+C:\C programing\kjfd\kjfd\obj\Debug\kjfd.Stock.resources
+C:\C programing\kjfd\kjfd\obj\Debug\kjfd.Transaction.resources
+C:\C programing\kjfd\kjfd\obj\Debug\SMGT.csproj.GenerateResource.cache
+C:\C programing\kjfd\kjfd\obj\Debug\SMGT.csproj.CoreCompileInputs.cache
+C:\C programing\kjfd\kjfd\obj\Debug\SMGT.csproj.CopyComplete
+C:\C programing\kjfd\kjfd\obj\Debug\kjfd.exe
+C:\C programing\kjfd\kjfd\obj\Debug\kjfd.pdb
+C:\C programing\kjfd\kjfd\bin\Debug\kjfd.pdb
